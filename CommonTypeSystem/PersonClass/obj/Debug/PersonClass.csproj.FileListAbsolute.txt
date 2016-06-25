@@ -1,0 +1,6 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\PersonClass\bin\Debug\PersonClass.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\PersonClass\obj\Debug\PersonClass.pdb

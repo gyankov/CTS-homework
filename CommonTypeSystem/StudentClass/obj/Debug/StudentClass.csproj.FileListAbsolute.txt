@@ -1,0 +1,6 @@
+c:\users\georgi\documents\visual studio 2015\Projects\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\StudentClass\obj\Debug\StudentClass.pdb

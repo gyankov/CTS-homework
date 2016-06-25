@@ -1,0 +1,5 @@
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\64BitArray\bin\Debug\64BitArray.exe.config
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\64BitArray\bin\Debug\64BitArray.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\64BitArray\bin\Debug\64BitArray.pdb
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\64BitArray\obj\Debug\64BitArray.exe
+C:\Users\Georgi\documents\visual studio 2015\Projects\CommonTypeSystem\64BitArray\obj\Debug\64BitArray.pdb
